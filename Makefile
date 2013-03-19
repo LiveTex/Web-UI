@@ -7,7 +7,7 @@ JS_BUILD_HOME ?= /usr/lib/js-build-tools
 
 JS_ROOT_DIR = ./
 JS_DEFAULT_ENV = browser
-JS_DEPS_DIRS = ../util/
+JS_DEPS_DIRS = ../util/ ../events/
 
 MODULE_NAME = ui
 
