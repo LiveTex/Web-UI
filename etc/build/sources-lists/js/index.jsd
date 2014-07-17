@@ -1,12 +1,13 @@
-ui/ui.js
-ui/widget.js
-ui/widget-event.js
-ui/i-widget-factory.js
-ui/widget-node.js
-ui/container.js
+lib/ui/ui.js
+lib/ui/widget.js
+lib/ui/widget-event.js
+lib/ui/i-widget-factory.js
+lib/ui/widget-node.js
+lib/ui/container.js
 
-ui/templates/template.js
-ui/templates/tuna-template.js
+lib/ui/templates/template.js
+lib/ui/templates/tuna-template.js
 
-ui/buttons/button.js
-ui/buttons/button-event.js
+lib/ui/buttons/button.js
+lib/ui/buttons/button-event.js
+
